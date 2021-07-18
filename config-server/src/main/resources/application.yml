@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/doflavio/dio-microservice-spring-cloud-config.git
+          uri: file://D:/Dev/workspaces-JAVA/intelliJ/DIO/dio-microservice-spring-cloud-config
